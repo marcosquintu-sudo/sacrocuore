@@ -1,0 +1,83 @@
+{
+ "piano_terra": {
+  "27:0:0": "muro",
+  "27:0:1": "serranda",
+  "27:3:20": "muro",
+  "27:3:18": "muro",
+  "27:3:19": "muro",
+  "27:3:17": "muro",
+  "27:3:16": "muro",
+  "27:3:15": "muro",
+  "23:1:7": "portone",
+  "23:1:9": "finestra",
+  "23:1:8": "finestra",
+  "23:1:6": "finestra",
+  "23:1:10": "muro",
+  "23:1:5": "finestra",
+  "23:1:4": "portone",
+  "39:3:2": "serranda",
+  "21:1:8": "portone",
+  "67:9:1": "serranda",
+  "210:0:1": "serranda",
+  "60:3:3": "portone",
+  "26:1:2": "portone",
+  "26:1:1": "finestra"
+ },
+ "edifici": {},
+ "luoghi": {
+  "umvl6l193": {
+   "tipo": "bar",
+   "nome": "Bar Maltagliati",
+   "x": 108.9,
+   "z": 165.7
+  },
+  "umvl6m1r3": {
+   "tipo": "pizzeria",
+   "nome": "Pizzeria il Rubino",
+   "x": 98.1,
+   "z": 171.7
+  },
+  "umvl6oktq": {
+   "tipo": "bar",
+   "nome": "Bar Maurizio",
+   "x": 91.5,
+   "z": 260.2
+  },
+  "umvl6pavb": {
+   "tipo": "bar",
+   "nome": "Bar Gianni",
+   "x": -185.5,
+   "z": 163.7
+  },
+  "umvlhemot": {
+   "tipo": "barbiere",
+   "nome": "Ivan Parrucchiere",
+   "x": 51.3,
+   "z": 219.4
+  },
+  "umvliegz6": {
+   "tipo": "altro",
+   "nome": "casa di ciabatta e pinguino",
+   "x": -147.7,
+   "z": -45.9
+  },
+  "umvp752va": {
+   "tipo": "circolo",
+   "nome": "La Beccaccia",
+   "x": -125.3,
+   "z": -85
+  },
+  "genovino": {
+   "tipo": "tabacchi",
+   "nome": "Tabacchi Genovino",
+   "x": -186.5,
+   "z": 183.0
+  },
+  "bocciofila": {
+   "tipo": "bocciofila",
+   "nome": "Bocciofila",
+   "x": 54.9,
+   "z": -97.0
+  }
+ }
+}
