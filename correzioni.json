@@ -23,7 +23,12 @@
   "26:1:2": "portone",
   "26:1:1": "finestra"
  },
- "edifici": {},
+ "edifici": {
+  "3": {
+   "piani": 3,
+   "intonaco": "#e6cf96"
+  }
+ },
  "luoghi": {
   "umvl6l193": {
    "tipo": "bar",
@@ -78,6 +83,12 @@
    "nome": "Bocciofila",
    "x": 54.9,
    "z": -97.0
+  },
+  "umvqy9bsi": {
+   "tipo": "amico",
+   "nome": "Casa di un amico",
+   "x": -172.3,
+   "z": 30.3
   }
  }
 }
