@@ -27,6 +27,10 @@
   "3": {
    "piani": 3,
    "intonaco": "#e6cf96"
+  },
+  "1": {
+   "piani": 4,
+   "intonaco": "#e8b896"
   }
  },
  "luoghi": {
@@ -89,6 +93,12 @@
    "nome": "Casa di un amico",
    "x": -172.3,
    "z": 30.3
+  },
+  "umvs2ryq6": {
+   "tipo": "amico",
+   "nome": "Casa di Ceccio",
+   "x": 44.2,
+   "z": -8.5
   }
  }
 }
